@@ -1,0 +1,28 @@
+.logo{
+width:60px; height:60px;
+}
+
+header{
+  height:50px;
+  background-color:#fff3b8;
+}
+
+.header-left{float: left;}
+
+.header-right{float: right;
+font-size: 15px;
+height: 20px;
+position: relative;
+top:20px;
+background-color: #ef857d;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  display: block;
+}
+
+.first{
+  background-image: url("../img/mountain.jpg");
+}
